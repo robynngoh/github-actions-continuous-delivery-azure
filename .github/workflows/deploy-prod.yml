@@ -8,7 +8,7 @@ on:
 env:
   DOCKER_IMAGE_NAME: robynngoh-azure-ttt # Must not exist as a package associated with a different repo!
   IMAGE_REGISTRY_URL: docker.pkg.github.com
-  #################################################
+  ##################################################
   ### USER PROVIDED VALUES ARE REQUIRED BELOW   ###
   #################################################
   #################################################
